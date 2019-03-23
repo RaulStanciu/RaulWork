@@ -18,5 +18,5 @@ public class Test4 {
 	public static void main(String[] args) {
 		combinations("abc",2);
 	}
-
+  // La asta m-am ajutat cu google, nu prea mergea cum am vrut eu
 }
